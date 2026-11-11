@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Agustinus Kristiadi&#39;s GitHub Stats, Rank: A+</title>
-        <desc id="descId">Total Stars Earned: 9134, Total Commits  (last year) : 447, Total PRs: 230, Total Issues: 199, Contributed to (last year): 5</desc>
+        <desc id="descId">Total Stars Earned: 9134, Total Commits  (last year) : 447, Total PRs: 232, Total Issues: 199, Contributed to (last year): 5</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 15.879768934633669;
+        stroke-dashoffset: 15.808922067366629;
       }
     }
   
@@ -199,7 +199,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs"
-      >230</text>
+      >232</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
